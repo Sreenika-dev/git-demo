@@ -1,0 +1,7 @@
+Branch repo usage 
+Git demo
+Concepts:
+Upstream
+Pull request
+branch checkouts
+merging branches and so on
